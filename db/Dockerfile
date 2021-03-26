@@ -1,4 +1,4 @@
-FROM mongo:latest
+FROM mongo:4.4.4-bionic
 
 ADD db-setup.sh /tmp/db-setup.sh
 ADD db-setup.js /tmp/db-setup.js
