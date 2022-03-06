@@ -1,4 +1,4 @@
-FROM mongo:latest
+FROM mongo:5.0.6-focal
 
 ADD db-setup.sh /tmp/db-setup.sh
 ADD db-setup.js /tmp/db-setup.js
