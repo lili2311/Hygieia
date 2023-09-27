@@ -100,7 +100,7 @@
     "dexie": "~1.2.0",
     "json-logic-js": "^1.2.2",
     "jstz": "~2.0.0",
-    "modernizr": "~3.6.0",
+    "modernizr": "~3.7.0",
     "moment": "~2.24.0",
     "ng-sortable": "~1.3.2",
     "operative": "~0.4.6",
